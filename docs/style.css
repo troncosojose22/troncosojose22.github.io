@@ -212,7 +212,7 @@ h1, h2, #logo {
     background-color: #1E1E1E;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
     padding: 24px;
     border-radius: 16px;
